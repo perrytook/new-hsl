@@ -57,7 +57,7 @@ Twice a month, members gather for **Hack Your Hackerspace (HYH)**, a mix of shor
 
 ## Card Access
 
-After six months as a Basic or Plus member, you can be nominated for 24/7 card access. It's a privilege based on trust and participation, not just payment. Card access means the community knows you, trusts you, and believes you'll take care of the space as if it were your own.
+After 6 months as a Basic or Plus member, you can be nominated for 24/7 card access. It's a privilege based on trust and participation, not just payment. Card access means the community knows you, trusts you, and believes you'll take care of the space as if it were your own.
 
 ## Code of Conduct
 
